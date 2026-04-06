@@ -26,7 +26,7 @@ public class FoodOrderingSystem {
             MenuItem drink = new MenuItem(104, "Cola", 1.99, true);
             
             // Uncommenting the below line will throw an IllegalArgumentException due to negative price
-            // MenuItem invalidItem = new MenuItem(105, "Free Water", -1.00, true);
+            MenuItem invalidItem = new MenuItem(105, "Free Water", -1.00, true);
 
             // 3. Create an Order
             Order order = new Order(customer);
