@@ -15,5 +15,6 @@ public class Alist {
        // Set<Integer> l1 =  new HashSet<>(list);    //Duplicate remove
         System.out.println(list);
         
+        }
     }
 }
