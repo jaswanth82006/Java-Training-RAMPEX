@@ -1,6 +1,6 @@
 # Online Food Ordering System
 
-A robust console-based **Online Food Ordering System** built in Java. This project demonstrates core Object-Oriented Programming (OOP) principles while implementing a streamlined flow for managing users, ordering food, applying discounts, and processing payments. 
+Hi, I made an console-based **Online Food Ordering System** built in Java. This project demonstrates core Object-Oriented Programming (OOP) principles while implementing a streamlined flow for managing users, ordering food, applying discounts, and processing payments. 
 
 ## 🚀 Features
 
